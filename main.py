@@ -18,7 +18,7 @@ async def root():
 @app.get("/marketing_data")
 async def marketing():
     response = Marketing(
-        campaign_name="Mozhan",
+        campaign_name="Mozhaaawwn",
         finance=26,
         conversion_rate=1.2
     )
